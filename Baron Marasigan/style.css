@@ -1,0 +1,38 @@
+body{
+    background-image:url(body.png);
+	background-size: cover;
+}
+
+
+.logo img{
+position:absolute;
+height: auto;
+width: 380px;
+left: 35%;
+top: 7%;
+}
+
+.box{
+position:absolute;
+height: 50%;
+width: 30%;
+background-color: rgba(17, 19, 18, 0.88);
+padding: 7px 20px;
+top:30%;
+left: 34%;
+}
+
+h2{
+position:relative;
+top:5%;
+text-align:center;
+color:white;
+}
+
+p{
+position:relative;
+top:16%;
+color:white;
+text-align:center;
+font-family: arial;
+}
